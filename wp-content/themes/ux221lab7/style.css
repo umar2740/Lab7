@@ -1,0 +1,14 @@
+/*
+Theme Name:     UX221Lab7
+Description:    Lab 7
+Author:         Umar
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+.alignwide.wp-block-heading
+{
+	font-family: "Platypi", serif;
+	background: lime;
+}
